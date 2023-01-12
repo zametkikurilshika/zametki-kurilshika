@@ -11,3 +11,6 @@
 https://github.com/zametkikurilshika/zametki-kurilshika/blob/eb93fccc77761db5181a4ff9ad346e1602f884be/docs/architecture.md
 
 https://github.com/zametkikurilshika/zametki-kurilshika/blob/c09b9e65bb95f70f5df1132bf2630b2aca68ee28/docs/process.md
+
+https://github.com/zametkikurilshika/zametki-kurilshika/blob/795436def304ce243cf6b890d55bb2b69046cda6/docs/team.md
+
