@@ -7,4 +7,7 @@
 Примером будет служить обычные заметки, но в заметки курильщика будет вноситься информация о времени, когда курильщик курил и по количеству таких заметок будет высчитываться по специальной формуле сколько осталось жить этому курильщику, если он не начнёт бросать.
 
 При создании заметок будут использоваться git технологии.
+
 https://github.com/zametkikurilshika/zametki-kurilshika/blob/eb93fccc77761db5181a4ff9ad346e1602f884be/docs/architecture.md
+
+https://github.com/zametkikurilshika/zametki-kurilshika/blob/c09b9e65bb95f70f5df1132bf2630b2aca68ee28/docs/process.md
